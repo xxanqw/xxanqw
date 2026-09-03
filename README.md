@@ -1,13 +1,14 @@
 <img align="left" width="100" height="100" src="https://github.com/xxanqw/xxanqw/assets/70416831/8cbb5166-9aa3-4760-809b-c81203106445" ><br>
-<-- Це я
+<-- That's me
 
 <br>
+<br>
 
-# Опис цієї памойки
-Коли я вперше познайомився з програмуванням я впав в глибоку депресію, бо в мене не було потрібного компуктіра, аби нічого не лагало..  
-Але це в минулому, тому я і став Python-розробником🥺
+just some guy making software which used by himself and can be used by someone else.lol
 
-### Моє ментальне здоров'я
+checkout [Pinchana🐈](https://pinchana.cc/)(WIP) the social media downloader similar to Cobalt in some ways but with working yt  
+also checkout the source of it at [org link click me](https://github.com/Pinchana/)
 
-З кожним роком воно все гірше й гірше, бо я жоско навчаюся в ЖПІ, а це шкодить здоров'ю (дуже)  
-До цього всього я максимально потребую більше макдокнакса😶‍🌫️
+you can reachout to me ONLY via [contact@xxanqw.pp.ua](mailto:contact@xxanqw.pp.ua) (or Pinchana orgs email showed on its page)
+
+and do not forget about pinned repos 👇🏻👇🏻👇🏻
